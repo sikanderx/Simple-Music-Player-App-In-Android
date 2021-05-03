@@ -1,2 +1,1 @@
-# Simple-Music-Player-App-In-Android
-A simple music player app in android.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iSikanderShaikh&repo=Simple-Music-Player-App-In-Android)](https://github.com/iSikanderShaikh/Simple-Music-Player-App-In-Android)
